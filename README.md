@@ -5,5 +5,6 @@
 ## 技术栈
 * Java
 * JavaWeb、JSP
-* Html、Css、Javascript
-* Mysql
+* HTML、CSS、Javascript
+* MySQL
+* SSM
